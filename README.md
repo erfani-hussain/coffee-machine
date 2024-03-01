@@ -1,4 +1,6 @@
 # coffee-machine
+# ☕
+
 <!--
            __  __          
            / _|/ _|         
@@ -9,6 +11,7 @@
                             
                             
 -->
+
 # Key points:
 1. 3 hot flavours
 2. coints operate
