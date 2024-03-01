@@ -1,4 +1,5 @@
-from data import MENU, resources, profit, logo
+from data import MENU, resources, profit
+from art import logo
 
 
 # FUNCTIONS
