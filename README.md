@@ -1,5 +1,4 @@
-# coffee-machine
-# ☕
+# coffee-machine ☕
 
 <!--
            __  __          
